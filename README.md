@@ -7,6 +7,6 @@ This repository contains the LabVIEW code utilized in the parameters identificat
 - The swing-up is done by analysing the pendulum's kinetic and potential energy.
 
 
-Pendulum swing-up and control
+### Pendulum swing-up and control
 
 ![](SwingUpAndControl.gif)
