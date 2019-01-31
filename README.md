@@ -7,5 +7,6 @@ This repository contains the LabVIEW code utilized in the parameters identificat
 - The wing up is done by analysing the pendulums knitic and potencial energy.
 
 
-Pendulum Swing-up and control
-![](https://media.giphy.com/media/ie71TksCubk4nGS1nS/giphy.gif)
+Pendulum swing-up and control
+
+![](SwingUpAndControl.gif)
