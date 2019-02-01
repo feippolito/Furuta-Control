@@ -10,6 +10,7 @@ This repository contains the LabVIEW code utilized in the parameters identificat
 ![](SwingUpAndControl.gif)
 
 ###### Please check the following repositories of more information on this project.
+###### Simulation and controller design : [Furuta-Simulation](https://github.com/feippolito/Furuta-Simulation)
 ###### Co-simulation - controller optimisation : [Furuta-Cosimulation](https://github.com/feippolito/Furuta-Cosimulation)
 ###### Hardware in the loop technique : [Furuta-HIL](https://github.com/feippolito/Furuta-HIL)
-###### Simulation and controller design : [Furuta-Simulation](https://github.com/feippolito/Furuta-Simulation)
+
