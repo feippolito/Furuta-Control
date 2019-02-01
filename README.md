@@ -1,6 +1,6 @@
 # Furuta Pendulum Control
 
-###### For more details on this project please visit the [FurutaPendulum-Simulation](https://github.com/feippolito/FurutaPendulum-Simulation/) github repository.
+###### For more details on this project please visit the [Furuta-Simulation](https://github.com/feippolito/Furuta-Simulation/) github repository.
 
 This repository contains the LabVIEW code utilized in the parameters identification and control of the Furuta Pendulum.
 - The control of the pendulum in its upright position is done by state-space feedback control.
